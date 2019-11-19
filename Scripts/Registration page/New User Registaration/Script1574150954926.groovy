@@ -33,3 +33,5 @@ WebUI.setText(findTestObject('Object Repository/Registration objects/Page_Regist
 
 WebUI.click(findTestObject('Object Repository/Registration objects/Page_Register/button_Register'))
 
+//Registration completed
+
